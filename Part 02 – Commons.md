@@ -130,11 +130,9 @@ No wall, barrier, market, or claim of ownership shall lawfully obstruct access t
 
 ## ✦ Section 2. Duty of Stewardship and Regeneration
 
-Each person and community shall hold the binding duty to act as stewards of the Commons,
+Each person and community shall hold the binding duty to act as stewards of the Commons; restoring, protecting, and regenerating the shared domain entrusted to all generations.
 
-Restoring, protecting, and regenerating the shared domain entrusted to all generations.
-
-All use of the Commons’s elements—land, water, species, knowledge, labor—shall be conducted in ways that heal, renew, and ensure abundance for future generations.
+All use of the Commons's elements—land, water, species, knowledge, labor—shall be conducted in ways that heal, renew, and ensure abundance for future generations.
 
 Extraction, destruction, or waste that breaches this duty shall be held as unlawful and subject to remedy and repair.
 
