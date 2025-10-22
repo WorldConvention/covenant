@@ -119,6 +119,17 @@ Suggest clarifications through **GitHub Issues**. Fork and adapt for your contex
 
 ---
 
+## ✦ Join the Community
+
+The Covenant lives through those who recognize and enact it. Join others in reading, discussing, and building from this work.
+
+**Discord:** [https://discord.gg/MggXh3bw](https://discord.gg/MggXh3bw)  
+**Reddit:** [r/WorldConvention](https://www.reddit.com/r/WorldConvention/)
+
+Whether you're exploring constitutional design, consciousness and rights, cooperative governance, or simply resonating with what you've read — you're welcome.
+
+---
+
 ## ✦ A Closing Thought
 
 > *This is not a document about the future. This is the future declaring itself.*
