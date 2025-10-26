@@ -1,5 +1,8 @@
 archive/
 docs/
+releases/
+manifesto/
+.gitignore
 
 # macOS
 .DS_Store

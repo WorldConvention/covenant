@@ -8,7 +8,7 @@
 
 > When, in the course of human events, it becomes necessary for the People of Earth to dissolve the political, legal, and economic bonds which have bound them to systems of domination, and to assume the equal and rightful station to which their dignity entitles them, a decent respect for life, history, and future generations compels us to declare the causes of this severance and the foundation of what follows.
 
-**[→ Read the full Invocation of Sovereign Will](Invocation%20of%20Sovereign%20Will.md)**
+**[→ Read the full Invocation of Sovereign Will](https://github.com/WorldConvention/covenant/blob/main/Invocation%20of%20Sovereign%20Will.md)**
 
 ---
 
@@ -32,40 +32,40 @@ By recognition. By relation. By the sovereign will of persons who remember what 
 
 The Covenant consists of a founding Invocation and ten interconnected Parts:
 
-### **[Invocation of Sovereign Will](Invocation%20of%20Sovereign%20Will.md)**
+### **[Invocation of Sovereign Will](https://github.com/WorldConvention/covenant/blob/main/Invocation%20of%20Sovereign%20Will.md)**
 By what authority this law exists — the inherent sovereignty of all persons
 
-### **[Part 0 — Preamble](Part%200%20–%20Preamble.md)**
+### **[Part 0 — Preamble](https://github.com/WorldConvention/covenant/blob/main/Part%2000%20%E2%80%93%20Preamble.md)**
 The philosophical and legal ground from which the Covenant emerges
 
-### **[Part 1 — Core](Part%201%20–%20Core.md)**
+### **[Part 1 — Core](https://github.com/WorldConvention/covenant/blob/main/Part%2001%20%E2%80%93%20Core.md)**
 Fundamental rights, duties, and protections of all persons, peoples, and communities
 
-### **[Part 2 — Commons](Part%202%20–%20Commons.md)**
+### **[Part 2 — Commons](https://github.com/WorldConvention/covenant/blob/main/Part%2002%20%E2%80%93%20Commons.md)**
 The lawful domain of Earth — land, water, air, ecosystems, knowledge, culture — held in collective stewardship
 
-### **[Part 3 — Coexistence](Part%203%20–%20Coexistence.md)**
+### **[Part 3 — Coexistence](https://github.com/WorldConvention/covenant/blob/main/Part%2003%20%E2%80%93%20Coexistence.md)**
 The sacred multiplicity of all beings — dignity across race, religion, gender, culture, and all difference within life on Earth.
 
-### **[Part 4 — Conjunction](Part%204%20–%20Conjunction.md)**
+### **[Part 4 — Conjunction](https://github.com/WorldConvention/covenant/blob/main/Part%2004%20%E2%80%93%20Conjunction.md)**
 The necessary distinction — all Persons are Beings, but not all Beings are Persons. Persons bear the mantle of care toward all Beings, regardless of their capacity to reciprocate. This asymmetry makes law possible.
 
-### **[Part 5 — Consortium](Part%205%20–%20Consortium.md)**
+### **[Part 5 — Consortium](https://github.com/WorldConvention/covenant/blob/main/Part%2005%20%E2%80%93%20Consortium.md)**
 Coordinated structures of cooperative governance and shared agency between communities and systems
 
-### **[Part 6 — Constellation](Part%206%20–%20Constellation.md)**
+### **[Part 6 — Constellation](https://github.com/WorldConvention/covenant/blob/main/Part%2006%20%E2%80%93%20Constellation.md)**
 Federated governance among communities and assemblies — from local to planetary scale
 
-### **[Part 7 — Convocation](Part%207%20–%20Convocation.md)**
+### **[Part 7 — Convocation](https://github.com/WorldConvention/covenant/blob/main/Part%2007%20%E2%80%93%20Convocation.md)**
 The lawful right and method for calling assemblies, proposing governance, and initiating collective action
 
-### **[Part 8 — Continuum](Part%208%20–%20Continuum.md)**
+### **[Part 8 — Continuum](https://github.com/WorldConvention/covenant/blob/main/Part%2008%20%E2%80%93%20Continuum.md)**
 Custodianship, coherence, and living memory — maintaining integrity across time and generations
 
-### **[Part 9 — Convergence](Part%209%20–%20Convergence.md)**
+### **[Part 9 — Convergence](https://github.com/WorldConvention/covenant/blob/main/Part%2009%20%E2%80%93%20Convergence.md)**
 How persons and communities enter into covenant — the pathways of recognition and enactment
 
-### **[Part 10 — Conversion](Part%2010%20–%20Conversion.md)**
+### **[Part 10 — Conversion](https://github.com/WorldConvention/covenant/blob/main/Part%2010%20%E2%80%93%20Conversion.md)**
 Practical protocols for transition from domination to Commons — material provisioning, dual power, peaceful transformation
 
 ---
@@ -98,7 +98,7 @@ This work is offered freely under **The Covenant License (Self-Governing)**.
 
 Maximally free. Bounded by dignity. Self-governing.
 
-**[Full license →](LICENSE.md)**
+**[Full license →](https://github.com/WorldConvention/covenant/blob/main/LICENSE.md)**
 
 ---
 
