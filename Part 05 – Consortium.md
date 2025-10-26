@@ -40,11 +40,13 @@ Upon dissolution, all shared assets and responsibilities shall revert to the ste
 ---
 
 _Let every Consortium be a vessel of shared purpose, constituted by care, and held in trust by those it serves._
+
 # Article 2 - Principles of Regenerative Commerce and Mutual Benefit
 
 _Of the Economic Ethic that Governs Trade, Exchange, and Value Creation Under the Covenant_
 
 ---
+
 ## ✦ Section 1. Regenerative Foundation
 
 **Commerce within the jurisdiction of this Covenant shall be regenerative, participatory, and life-affirming.** It shall serve the health of the Commons, the dignity of labor, the well-being of communities, and the continuity of Earth’s living systems. The purpose of trade is not to accumulate private wealth, but to circulate value in ways that nourish reciprocal stewardship and shared abundance.

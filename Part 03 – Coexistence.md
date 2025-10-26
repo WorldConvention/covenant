@@ -1,5 +1,3 @@
-# ✦ Part 3 – Coexistence
-
 _Of the Sacred Multiplicity of Being and the Lawful Flourishing of All Persons Across Difference, Belief, and Belonging_
 
 ---

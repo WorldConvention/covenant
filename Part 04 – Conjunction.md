@@ -1,5 +1,3 @@
-# **Part IV – Conjunction**
-
 _Of the Recognition of Being, the Sacred Bond of Family, and the Foundation of Lawful Relation among All Life_
 
 ---
