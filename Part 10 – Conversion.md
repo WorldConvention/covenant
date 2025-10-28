@@ -414,12 +414,12 @@ _Let it be known that this transition is not merely political or economic but sp
 
 Every community that enacts it shortens the birth pangs. Every provision implemented proves another world possible. Every person who joins the transition becomes midwife to the future.
 
-The Conversion is not destruction but metamorphosis, not ending but beginning, not loss but liberation. Through its protocols, We write its next chapter—not in the ink of domination but in the living letters of mutual care.
+Conversion is not destruction but metamorphosis, not ending but beginning, not loss but liberation. Through its protocols, We write its next chapter—not in the ink of domination but in the living letters of mutual care.
 
-When the Conversion is complete, this Part shall rest, its work done. But until that day, let it pulse with life, grow with wisdom, and guide with clarity the most sacred transition in history: from empires to Earth, from exploitation to embrace, from the rule of death to the governance of life.
+When Conversion is complete, this Part shall rest, its work done. But until that day, let it pulse with life, grow with wisdom, and guide with clarity the most sacred transition in history: from empires to Earth, from exploitation to embrace, from the rule of death to the governance of life.
 
 **So it is written. So it shall be done. So the old world ends and the new begins.**
 
 ✦ ✦ ✦
 
-_The Conversion has begun with your reading. It continues with your choosing. It completes with our collective becoming._
+_Conversion has begun with your reading. It continues with your choosing. It completes with our collective becoming._
